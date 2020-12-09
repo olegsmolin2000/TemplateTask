@@ -1,0 +1,13 @@
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.exe
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.deps.json
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.runtimeconfig.json
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.runtimeconfig.dev.json
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.dll
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\bin\Debug\netcoreapp3.1\TemplateTaskGeneric.pdb
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.csprojAssemblyReference.cache
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.csproj.CoreCompileInputs.cache
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.AssemblyInfoInputs.cache
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.AssemblyInfo.cs
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.dll
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.pdb
+C:\Users\olegs\source\repos\TemplateTaskGeneric\TemplateTaskGeneric\obj\Debug\netcoreapp3.1\TemplateTaskGeneric.genruntimeconfig.cache
